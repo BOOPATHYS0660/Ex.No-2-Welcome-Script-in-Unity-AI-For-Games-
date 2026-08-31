@@ -2,7 +2,7 @@
 
 ### DATE:31/8/26 
 ### NAME:BOOPATHY S
-### REGISTER NUMBER : 2305003006
+### REGISTER NUMBER : 2305003002
 
 ### AIM: 
  To learn the basic scripting in Unity and print welcome message in Console window. 
