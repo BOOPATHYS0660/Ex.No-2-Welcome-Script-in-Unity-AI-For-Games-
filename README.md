@@ -1,6 +1,7 @@
 # Ex.No: 2  Welcome Script in Unity
 
-### DATE:    31/8/26                                                                        
+### DATE:31/8/26 
+### NAME:BOOPATHY S
 ### REGISTER NUMBER : 2305002009
 
 ### AIM: 
